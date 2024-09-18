@@ -8,7 +8,6 @@ redirect_from:
 ---
 I am a second year PhD student at the University of Bristol, supervised by Matthew Tointon. My research mainly concerns studying groups from both a geometric and combinatorial perspective. In particular, I am currently studying how geodesics behave in groups of polynomial growth.
 
-Contact
-------
-email: sarah.martin(add @bristol.ac.uk)
-office: Fry Building 1.23, Fry Building, School of Mathematics, University of Bristol, Woodland Rd, Bristol, BS8 1UG
+**email:**  sarah.martin(add @bristol.ac.uk)
+
+**office:** Fry Building 1.23, Fry Building, School of Mathematics, University of Bristol, Woodland Rd, Bristol, BS8 1UG
