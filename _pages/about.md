@@ -6,9 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-======
-I am a second year PhD student at the University of Bristol, supervised by Matthew Tointon. 
+I am a second year PhD student at the University of Bristol, supervised by Matthew Tointon. Broadly speaking, my research concerns studying properties of groups from both a geometric and combinatorial persepctive. Particular structural properties I am interested in are geodesics in Cayley graphs and the growth rate of groups.
 
 Getting started
 ======
