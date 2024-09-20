@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-I ran the problem sessions for the course **"Structure vs. expansion: probability on transitive graphs"** by Tom Hutchcroft (Caltech) at the [**CMI-HIMR Summer School on Symmetry and Randomness**](https://heilbronn.ac.uk/2023/10/27/cmi-himr-summer-school-2024/), University of Bristol in July 2024.
+I ran the problem sessions for the course **"Structure vs. expansion: probability on transitive graphs"** by Tom Hutchcroft (Caltech) at the [**CMI-HIMR Summer School on Symmetry and Randomness**](https://heilbronn.ac.uk/2023/10/27/cmi-himr-summer-school-2024/), University of Bristol, July 2024.
 
 **Undergraduate Teaching**
 
