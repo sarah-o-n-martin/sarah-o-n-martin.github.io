@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second year PhD student at the University of Bristol, supervised by Matthew Tointon. My research mainly concerns studying groups from both a geometric and combinatorial perspective. In particular, I am currently studying how geodesics behave in groups of polynomial growth.
+I am a second year PhD student at the University of Bristol, supervised by [Matthew Tointon](https://tointon.neocities.org/). My research mainly concerns studying groups from both a geometric and combinatorial perspective. In particular, I am currently studying how geodesics behave in groups of polynomial growth.
 
 **Email:**  sarah.martin (add @bristol.ac.uk)
 
