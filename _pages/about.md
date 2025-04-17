@@ -10,4 +10,4 @@ I am a second year PhD student at the University of Bristol, supervised by [Matt
 
 **Email:**  sarah.martin (add @bristol.ac.uk)
 
-**Office:** Fry Building 1.23, Fry Building, School of Mathematics, University of Bristol, Woodland Rd, Bristol, BS8 1UG
+**Office:** 1.23, Fry Building, School of Mathematics, University of Bristol, Woodland Rd, Bristol, BS8 1UG
