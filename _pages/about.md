@@ -14,4 +14,4 @@ I co-organised the 26th Edition of the [Postgraduate Group Theory Conference (PG
 
 **Email:**  sarah.martin (add @bristol.ac.uk)
 
-**Office:** 1.23, Fry Building, School of Mathematics, University of Bristol, Woodland Rd, Bristol, BS8 1UG
+**Office:** 2A.08, Fry Building, School of Mathematics, University of Bristol, Woodland Rd, Bristol, BS8 1UG
