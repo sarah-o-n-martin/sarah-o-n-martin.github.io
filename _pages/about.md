@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third year PhD student at the University of Bristol, supervised by [Matthew Tointon](https://tointon.neocities.org/). My research mainly concerns studying groups from both a geometric and probabilistic perspective. In particular, I am currently studying how geodesics behave in groups of polynomial growth, and studying percolation on lamplighter groups.
+I am a third year PhD student at the University of Bristol, supervised by [Matthew Tointon](https://tointon.neocities.org/). My research mainly concerns studying groups from both a geometric and probabilistic perspective. In particular, I am currently studying Bernoulli percolation and spread-out percolation on lamplighter groups.
 
 I am currently a co-organiser of the [Bristol Junior Geometry Seminar (BRIJGES)](https://sites.google.com/view/brijges/home) alongside Merlin Haith Rowlatt. If you would like to give a talk, suggest a speaker, or sign up to the seminar mailing list, please contact us.
 
