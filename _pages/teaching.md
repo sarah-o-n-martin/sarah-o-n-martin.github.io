@@ -10,7 +10,13 @@ I ran the problem sessions for the course **"Structure vs. expansion: probabilit
 
 **Undergraduate Teaching and Marking**
 
-*2025/26 (Upcoming):*
+*2026/27 (Upcoming):*
+
++ **Introduction to Pure Mathematics** MATH10027, *First Year Tutor*, University of Bristol, Autumn 2026
++ **Perspectives in Mathematics** MATH30024, *PGR Moderator and Marker*, University of Bristol, Autumn 2026
++ **Probability and Statistics** MATH10013, *First Year Tutor*, University of Bristol, Spring 2027
+
+*2025/26:*
 
 + **Martingale Theory with Applications** MATH30027/MATHM0045, *Third/Fourth Year Support Session Leader and Marker*, University of Bristol, Autumn 2025
 + **Perspectives in Mathematics** MATH30024, *PGR Moderator*, University of Bristol, Autumn 2025
