@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+[5] **Bristol Probability Seminar**, *Upcoming*, University of Bristol, November 2026
+
 [4] **Lightning Talk: YGGT XIII**, *"Geodesics in Groups of Polynomial Growth"*, University of Copenhagen, April 2025
 
 [3] **Bristol Junior Alegbra and Combinatorics Seminar**, *"Counting Geodesics in Finitely Generated Groups"*, University of Bristol, February 2025
